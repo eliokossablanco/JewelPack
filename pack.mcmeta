@@ -1,9 +1,9 @@
 {
 	"pack": {
-		"pack_format": 0,
-		"min_format": [22,0],
-		"max_format": [75,0],
-		"supported_formats": [22,75],
-		"description": "Look me in the eyes, dear."
+		"pack_format": 15,
+	 	"supported_formats": [15, 99],
+	  	"min_format": 15, 
+      		"max_format": 99,
+		"description": "The pack ordained."
 	}
 }
