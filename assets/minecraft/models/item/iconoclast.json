@@ -2,5 +2,12 @@
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "minecraft:item/iconoclast"
+  },
+  "display": {
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 1.8, 1.8, 1.8]
+        }
   }
 }
