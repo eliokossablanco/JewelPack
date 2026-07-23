@@ -10,6 +10,13 @@
           "type": "minecraft:model",
           "model": "item/netherite_pigface"
         }
+      },
+      {
+        "when": "Silver Listening",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/netherite_sol"
+        }
       }
     ],
     "fallback": {
