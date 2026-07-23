@@ -60,6 +60,15 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50, 0, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [0, 153, 0],
+			"translation": [0, 3.25, 0]
+		},
 		"head": {
 			"translation": [0, 6.4, 0],
 			"scale": [1.6, 1.6, 1.6]
